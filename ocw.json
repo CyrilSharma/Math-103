@@ -1,0 +1,42 @@
+{
+  "title": "Math 102",
+  "authors": [
+    "Alvan Caleb Arulandu",
+    "Michael Fatemi",
+    "Cyril Sharma",
+    "Tarushii Goel"
+  ],
+  "thumbnail": "https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t",
+  "description": "A very cool math class",
+  "tags": [
+    "math",
+    "highschool",
+    "algebra"
+  ],
+  "structure": {
+    "title": "Math 102",
+    "children": [
+      {
+        "title": "Addition",
+        "children": [
+          {
+            "title": "EpicAddition",
+            "children": [{"title": "intro.md"}]
+          }
+        ]
+      },
+      {
+        "title": "LaplaceTransforms",
+        "children": [{"title": "intro.md"}]
+      },
+      {
+        "title": "Multiplication",
+        "children": [{"title": "intro.md"}]
+      },
+      {
+        "title": "Subtraction",
+        "children": [{"title": "intro.md"}]
+      }
+    ]
+  }
+}
